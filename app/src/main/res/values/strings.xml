@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Alertbox</string>
+    <String name="dialog_message">Do you want to close this app</String>
+    <String name="dialog_title">Close App</String>
+</resources>
